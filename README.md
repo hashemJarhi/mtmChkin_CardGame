@@ -38,4 +38,4 @@ the rules:
 
 the Game has rounds, when that round starts each player draws a card and function by the rules.
 
-provided with the code main file that manage to greet the players and take input from the user that indicates on player numbers and then asks for player name and his desired class
+provided with the code main file in the tool folder that manage to greet the players and take input from the user that indicates on player numbers and then asks for player name and his desired class
